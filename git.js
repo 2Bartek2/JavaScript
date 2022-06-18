@@ -1,1 +1,1 @@
-console.log('kolejna proba')
+console.log('kolejna proba chyba sie udala')
