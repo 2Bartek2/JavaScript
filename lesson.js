@@ -1,1 +1,1 @@
-console.log('witamy witamy')
+console.log('witamy witamy i do domu zapraszamy')
